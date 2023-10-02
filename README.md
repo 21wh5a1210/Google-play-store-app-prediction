@@ -1,1 +1,1 @@
-# Google-play-store-app-prediction
+# Google-play-store-app-rating-prediction
